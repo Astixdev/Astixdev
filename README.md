@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Astixdev
+- 👀 I’m interested in : Cyber Sécurity
+- 🌱 I’m currently learning : Dev in C+ and Russian
+- 📫 How to reach me : contact@astrix.com
