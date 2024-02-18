@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @Astixdev
-- 👀 I’m interested in : Cyber Sécurity
-- 🌱 I’m currently learning : Dev in C+ and Russian
-- 📫 How to reach me : contact@astrix.com
+- 👋 Hi, I’m @Spork
+
+- 👀 I’m interested in : Cyber Sécurity and Developping web
+
+- 🌱 I’m currently learning : C+,HTML5 and the Russian 
+
+- 📫 How to reach me : Spork9333 on discord & contact@spork.ru
